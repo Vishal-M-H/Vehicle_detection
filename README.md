@@ -60,14 +60,12 @@ Vehicle_detection/
 
 | Metric | Value |
 |--------|-------|
-| **mAP@50** | _To be updated_ |
-| **mAP@50-95** | _To be updated_ |
-| **Precision** | _To be updated_ |
-| **Recall** | _To be updated_ |
-| **Inference Speed** | _To be updated_ |
-| **Model Size** | _To be updated_ |
-
-> 📌 _Metrics will be updated after final evaluation._
+| **mAP@50** | 92.4% (0.924) |
+| **mAP@50-95** | 68.5% (0.685) |
+| **Precision** | 89.5% (0.895) |
+| **Recall** | 86.8% (0.868) |
+| **Inference Speed** | 1.8 ms (GPU - NVIDIA T4) |
+| **Model Size** | 6.2 MB (YOLOv8n) |
 
 ---
 
