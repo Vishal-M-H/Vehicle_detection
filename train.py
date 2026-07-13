@@ -1,7 +1,7 @@
 """
-Vehicle Detection - Training Script
-====================================
-Train YOLOv8 model for multi-class vehicle detection.
+Vehicle Detection - Local Training Script
+==========================================
+Train YOLOv8 model for road vehicle detection.
 
 Usage:
     python train.py --data configs/data.yaml --epochs 100 --imgsz 640

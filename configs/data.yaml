@@ -1,7 +1,4 @@
-# Vehicle Detection - YOLOv8 Data Configuration
-# ================================================
-# Update paths below to match your dataset location.
-
+# Road vehicle detection configuration
 train: data/train/images
 val: data/valid/images
 test: data/test/images

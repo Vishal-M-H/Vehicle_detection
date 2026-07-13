@@ -1,7 +1,7 @@
 """
-Vehicle Detection - Inference Script
-=====================================
-Run YOLOv8 vehicle detection on images, videos, or camera feeds.
+Vehicle Detection - Local Inference Script
+===========================================
+Run YOLOv8 vehicle detection on various media sources.
 
 Usage:
     python inference.py --source image.jpg --weights weights/best.pt

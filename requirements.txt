@@ -1,4 +1,4 @@
-# Vehicle Detection - Dependencies
+# Vehicle Detection Dependencies
 # ================================
 
 # Core ML Framework
