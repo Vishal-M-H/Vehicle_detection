@@ -1,0 +1,60 @@
+# ============================================
+# Vehicle Detection - .gitignore
+# ============================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ---- Virtual Environment ----
+venv/
+env/
+.env
+.venv
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---- ML / Training Artifacts ----
+runs/
+wandb/
+mlruns/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+
+# ---- Dataset (too large for GitHub) ----
+data/train/
+data/valid/
+data/test/
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# ---- Logs ----
+*.log
+logs/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Misc ----
+tmp/
+temp/
+*.bak

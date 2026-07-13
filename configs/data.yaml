@@ -1,0 +1,23 @@
+# Vehicle Detection - YOLOv8 Data Configuration
+# ================================================
+# Update paths below to match your dataset location.
+
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+# Number of classes
+nc: 10
+
+# Class names (update to match your dataset)
+names:
+  0: car
+  1: truck
+  2: bus
+  3: motorcycle
+  4: bicycle
+  5: auto-rickshaw
+  6: van
+  7: ambulance
+  8: taxi
+  9: scooter
