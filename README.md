@@ -27,7 +27,6 @@ A robust real-time **Vehicle Detection** system built using **YOLOv8 (Ultralytic
 | 🎯 **Multi-class Detection** | Detects cars, trucks, buses, motorcycles, auto-rickshaws, bicycles, and more |
 | ⚡ **Real-time Inference** | Optimized for fast detection on images, videos, and live camera feeds |
 | 📊 **High Accuracy** | Trained on a comprehensive dataset with data augmentation |
-| 🔧 **Easy to Use** | Simple CLI-based training and inference scripts with argparse |
 | 📦 **Modular Codebase** | Clean, well-structured, and easy to extend |
 | 🖼️ **Visual Results** | Annotated output images/videos with bounding boxes and class labels |
 
@@ -218,7 +217,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👨•💻 Author
+## 👨‍💻 Author
 
 <p align="center">
   <b>Vishal M H</b><br>
