@@ -72,15 +72,10 @@ Vehicle_detection/
 ## 🖼️ Sample Results
 
 <p align="center">
-  <i>Sample detection results will be added here.</i>
+  <img src="results/sample_1.png" width="800" alt="Vehicle Detection Output 1"><br><br>
+  <img src="results/sample_2.png" width="400" alt="Vehicle Detection Output 2">
+  <img src="results/sample_3.png" width="400" alt="Vehicle Detection Output 3">
 </p>
-
-<!-- Uncomment and update paths when result images are available:
-<p align="center">
-  <img src="results/sample_1.jpg" width="400" alt="Detection Sample 1">
-  <img src="results/sample_2.jpg" width="400" alt="Detection Sample 2">
-</p>
--->
 
 ---
 
@@ -223,7 +218,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👨‍💻 Author
+## 👨•💻 Author
 
 <p align="center">
   <b>Vishal M H</b><br>
